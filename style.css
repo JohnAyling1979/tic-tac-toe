@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid #000;
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+}
